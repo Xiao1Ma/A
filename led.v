@@ -24,7 +24,7 @@ module led
 (
     input   wire        key_in,
     output  wire        led_out
-
+//这是个LED灯
 );
 assign led_out = key_in;
 
